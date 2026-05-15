@@ -43,8 +43,7 @@ The main goal of this project is to reduce risky driving conditions and improve 
 ## Project Images
 
 - [Block Diagram](https://github.com/harinibabu63/Vehicle-Management-System-to-Reduce-Risky-Factors-Using-Embedded-Technology-Enhanced-With-Wi-Fi/blob/main/Block%20diagram%20of%20Proposed%20System.png)
-- [Hardware Setup](ADD-YOUR-HARDWARE-SETUP-LINK-HERE)
-- [Server Output](ADD-YOUR-SERVER-OUTPUT-LINK-HERE)
+- [Hardware Setup](https://github.com/harinibabu63/Vehicle-Management-System-to-Reduce-Risky-Factors-Using-Embedded-Technology-Enhanced-With-Wi-Fi/blob/main/Hardware%20Implementation%20of%20Proposed%20System.jpg)
 - [Eye Detection Output](ADD-YOUR-EYE-DETECTION-LINK-HERE)
 - [Vibration Sensor Output](ADD-YOUR-VIBRATION-OUTPUT-LINK-HERE)
 
