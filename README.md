@@ -42,7 +42,7 @@ The main goal of this project is to reduce risky driving conditions and improve 
 
 ## Project Images
 
-- [Block Diagram]()
+- [Block Diagram](https://github.com/harinibabu63/Vehicle-Management-System-to-Reduce-Risky-Factors-Using-Embedded-Technology-Enhanced-With-Wi-Fi/blob/main/Block%20diagram%20of%20Proposed%20System.png)
 - [Hardware Setup](ADD-YOUR-HARDWARE-SETUP-LINK-HERE)
 - [Server Output](ADD-YOUR-SERVER-OUTPUT-LINK-HERE)
 - [Eye Detection Output](ADD-YOUR-EYE-DETECTION-LINK-HERE)
