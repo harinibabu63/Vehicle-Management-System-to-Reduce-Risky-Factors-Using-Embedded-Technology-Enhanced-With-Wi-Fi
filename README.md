@@ -42,7 +42,7 @@ The main goal of this project is to reduce risky driving conditions and improve 
 
 ## Project Images
 
-- [Block Diagram](ADD-YOUR-BLOCK-DIAGRAM-LINK-HERE)
+- [Block Diagram]()
 - [Hardware Setup](ADD-YOUR-HARDWARE-SETUP-LINK-HERE)
 - [Server Output](ADD-YOUR-SERVER-OUTPUT-LINK-HERE)
 - [Eye Detection Output](ADD-YOUR-EYE-DETECTION-LINK-HERE)
